@@ -1,4 +1,4 @@
 numpy
 streamlit==1.24.0
 scikit-learn
-opencv-python
+opencv-python-headless
